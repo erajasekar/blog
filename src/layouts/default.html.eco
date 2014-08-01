@@ -5,12 +5,12 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
 
-    <meta name="description" content="Productive software development using Windows Azure, C#, and related technologies" />
+    <meta name="description" content="Productive software development using Java, Javascript, Scala, Spring and related technologies" />
 
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/feed/" rel="alternate" title="YTECHIE.com" type="application/atom+xml">
+    <link href="/feed/" rel="alternate" title="http://erajasekar.github.io/blog-docpad" type="application/atom+xml"> <!-- TODO -->
     <link href="/favicon.ico?v=2" rel="shortcut icon">
 
     <!-- Bootstrap -->
@@ -39,7 +39,7 @@
             </button>
             <a class="navbar-brand" href="/">
                 <span class="text-primary"><%= @site.title %></span><br />
-                <span class="elevator-pitch">Azure Developer &amp; Evangelist</span>
+                <!-- <span class="elevator-pitch">Thoughts on Technology, Books</span> -->
             </a>
         </div>
         <div class="collapse navbar-collapse navbar-right">
@@ -48,18 +48,17 @@
                 <% for document in @getCollection('menuPages').toJSON(): %>
                     <li><a href="<%= document.url %>"><%= document.menu %></a></li>
                 <% end %>
-                <li><a href="http://msdevshow.com">Podcast</a></li>
                 <li class="hidden-xs">
                     <a href="/feed/" class="rss"><span class="icon icon-feed"></span></a>
-                    <a href="http://twitter.com/ytechie" class="twitter"><span class="icon icon-twitter"></span></a>
-                    <a href="https://github.com/ytechie" class="github"><span class="icon icon-github"></span></a>
+                    <a href="http://twitter.com/erajasekar" class="twitter"><span class="icon icon-twitter"></span></a>
+                    <a href="https://github.com/erajasekar" class="github"><span class="icon icon-github"></span></a>
                 </li>
             </ul>
             <form class="navbar-form navbar-right hidden-xs" role="search" action="http://google.com/search"
                   method="get">
                 <div class="form-group">
                     <input type="search" name="q" class="form-control" placeholder="Search">
-                    <input type="hidden" name="q" value="site:www.ytechie.com">
+                    <input type="hidden" name="q" value="site:www.erajasekar.github.io/blog-docpad"> <!-- TODO -->
                 </div>
             </form>
         </div>
@@ -68,7 +67,7 @@
 <%- @content %>
 <div class="container">
     <div class="navbar navbar-footer">
-        <p class="navbar-center navbar-text">Content copyright &copy; 2013 Jason Young</p>
+        <p class="navbar-center navbar-text">Content copyright &copy; 2014 Rajasekar Elango</p>
     </div>
 </div>
 

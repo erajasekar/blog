@@ -9,17 +9,17 @@ docpadConfig = {
 	templateData:
 		# Specify some site properties
 		site:
-			# The production url of our website
-			url: "http://www.ytechie.com"
+			# The production url of our website TODO
+			url: "http://erajasekar.github.io/blog-docpad"
 
 			# The default title of our website
-			title: "Jason Young"
+			title: "Rajasekar Elango's blog"
 
 			# The website author's name
-			author: "Jason Young"
+			author: "Rajasekar Elango"
 
 			# The website author's email
-			email: "jason@ytechie.com"
+			email: "e.rajasekar@gmail.com"
 
 
 		# -----------------------------
@@ -70,11 +70,11 @@ docpadConfig = {
 		getJavascriptEncodedTitle: (title) ->
 			title.replace("'", "\\'")
 
-		# Discus.com settings
+		# Discus.com settings TODO
 		disqusShortName: 'ytechie'
 
 		# Google+ settings
-		googlePlusId: '105512648454315380048'
+		googlePlusId: '102844251118280588957'
 
 	collections:
 		posts: ->
