@@ -9,8 +9,8 @@ docpadConfig = {
 	templateData:
 		# Specify some site properties
 		site:
-			# The production url of our website TODO
-			url: "http://erajasekar.github.io/blog-docpad"
+			# The production url of our website
+			url: "http://erajasekar.github.io/blog/"
 
 			# The default title of our website
 			title: "Rajasekar Elango's blog"
@@ -70,8 +70,8 @@ docpadConfig = {
 		getJavascriptEncodedTitle: (title) ->
 			title.replace("'", "\\'")
 
-		# Discus.com settings TODO
-		disqusShortName: 'ytechie'
+		# Discus.com settings
+		disqusShortName: 'erajasekar'
 
 		# Google+ settings
 		googlePlusId: '102844251118280588957'

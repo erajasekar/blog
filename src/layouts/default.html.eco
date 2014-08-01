@@ -10,7 +10,7 @@
     <title><%= @getPreparedTitle() %></title>
     <meta name="author" content="<%= @site.author %>">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="/feed/" rel="alternate" title="http://erajasekar.github.io/blog-docpad" type="application/atom+xml"> <!-- TODO -->
+    <link href="/feed/" rel="alternate" title="http://erajasekar.github.io/blog" type="application/atom+xml">
     <link href="/favicon.ico?v=2" rel="shortcut icon">
 
     <!-- Bootstrap -->
@@ -58,7 +58,7 @@
                   method="get">
                 <div class="form-group">
                     <input type="search" name="q" class="form-control" placeholder="Search">
-                    <input type="hidden" name="q" value="site:www.erajasekar.github.io/blog-docpad"> <!-- TODO -->
+                    <input type="hidden" name="q" value="site:www.erajasekar.github.io/blog">
                 </div>
             </form>
         </div>
