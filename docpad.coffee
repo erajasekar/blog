@@ -6,6 +6,7 @@ url = require('url')
 
 # Define the DocPad Configuration
 docpadConfig = {
+
 	templateData:
 		# Specify some site properties
 		site:
