@@ -6,14 +6,14 @@ tags: [book]
 ---
 
 I recently read the book [Happiness Advantage by Shawn Achor](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance-ebook/dp/B003F3PMYI) and it was excellent read.
-The fundamental idea that this book evangelizes is that happiness is brings you success and not otherway around. Here is highlight from the book.
+The fundamental idea that this book evangelizes is that ***happiness brings you success*** and not otherway around. Here is highlight from the book.
  
 > we have led to believe that happiness orbited around success. That if we work hard enough, we will be successful, and only if we are successful will we become happy. Success was thought to be the fixed point of the work universe, with happiness revolving around it. 
 > Now, thanks to breakthroughs in the burgeoning field of positive psychology, we are learning that the opposite is true. 
 > When we are happy—when our mindset and mood are positive—we are smarter, more motivated, and thus more successful. 
 > Happiness is the center, and success revolves around it
 
-The book suggests number of proven ways that can improve our moods and raise our levels of happiness throughout the day.
+Here is the number of proven methods suggested in the book that can improve our moods and raise our levels of happiness.
 
 * **Meditate:** Take just five minutes each day to watch your breath go in and out.
 

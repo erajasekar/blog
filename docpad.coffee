@@ -84,12 +84,13 @@ docpadConfig = {
 			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
 
 	plugins:
+    ghpages:
+      deployRemote: 'target'
+      deployBranch: 'master'
 		tagging:
 			collectionName: 'posts'
 			indexPageLowercase: true
-    #ghpages:
-      #deployRemote: 'target'
-      #deployBranch: 'master'
+
 		#dateurls:
 		#	cleanurl: true
 		#	trailingSlashes: true
