@@ -72,7 +72,7 @@ docpadConfig = {
 			title.replace("'", "\\'")
 
 		# Discus.com settings
-		disqusShortName: 'erajasekar'
+		disqusShortName: 'erajasekarblog'
 
 		# Google+ settings
 		googlePlusId: '102844251118280588957'

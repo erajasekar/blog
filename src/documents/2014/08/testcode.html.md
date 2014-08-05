@@ -2,6 +2,7 @@
 layout: post
 title: Test code highlight
 date: 2014-08-06
+draft: true
 tags: [book]
 ---
 
