@@ -87,6 +87,9 @@ docpadConfig = {
 		tagging:
 			collectionName: 'posts'
 			indexPageLowercase: true
+    #ghpages:
+      #deployRemote: 'target'
+      #deployBranch: 'master'
 		#dateurls:
 		#	cleanurl: true
 		#	trailingSlashes: true
