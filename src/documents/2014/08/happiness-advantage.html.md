@@ -2,8 +2,9 @@
 layout: post
 title: Happiness Advantage Book by Shawn Achor
 date: 2014-08-04
-tags: [book]
+tags: [book, happiness]
 ---
+
 
 I recently read the book [Happiness Advantage by Shawn Achor](http://www.amazon.com/Happiness-Advantage-Principles-Psychology-Performance-ebook/dp/B003F3PMYI) and it was excellent read.
 The fundamental idea that this book evangelizes is that ***happiness brings you success*** and not otherway around. Here is highlight from the book.
