@@ -22,7 +22,7 @@ Here is the number of proven methods suggested in the book that can improve our 
 
 * **Commit Concious Act of Kindness:** Pick one a day of a week and make point of commiting five acts of kindness.
 
-* **Infuse Positivity Into Your Surroundings:** Make specific efforts to infuse positivity in your surroundings and and also change your surroundings to keep negative emotions out.
+* **Infuse Positivity Into Your Surroundings:** Make specific efforts to infuse positivity in your surroundings and also change your surroundings to keep negative emotions out.
 
 * **Exercise:** Walk, Bike , Run, Play or whatever you can do to keep you moving.
 
