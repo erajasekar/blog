@@ -23,9 +23,13 @@ docpadConfig = {
 			email: "e.rajasekar@gmail.com"
 
 			services :
-				buttons: ['FacebookLike']
+				#buttons: ['FacebookLike']
 				facebookLikeButton:
 					applicationId: '879531558743071'
+
+				twitterTweetButton: 'erajasekar'
+				googlePlusOneButton: false
+
 
 		# -----------------------------
 		# Helper Functions
@@ -79,7 +83,7 @@ docpadConfig = {
 		disqusShortName: 'erajasekarblog'
 
 		# Google+ settings
-		googlePlusId: '102844251118280588957'
+		#googlePlusId: '102844251118280588957'
 
 	collections:
 		posts: ->
