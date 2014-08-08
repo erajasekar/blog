@@ -11,7 +11,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-		  url: "http://erajasekar.github.io/blog/"
+			url: "http://erajasekar.github.io/blog/"
 
 			# The default title of our website
 			title: "Rajasekar Elango's blog"
@@ -22,13 +22,10 @@ docpadConfig = {
 			# The website author's email
 			email: "e.rajasekar@gmail.com"
 
-      ###services:
-        buttons : ['FacebookLike']
-
-        facebookLikeButton:
-          applicationId : '879531558743071'###
-
-
+			services :
+				buttons: ['FacebookLike']
+				facebookLikeButton:
+					applicationId: '879531558743071'
 
 		# -----------------------------
 		# Helper Functions
