@@ -14,11 +14,11 @@ cacheable: false
 
     <p><!-- TODO test -->
 
-        Like this post? Please share it!<br />
+      <!--  Like this post? Please share it!<br />
 
         <%- @getFacebookLikeButton() %>
         <%- @getTwitterTweetButton() %>
-        <%- @getGooglePlusOneButton() %>
+        <%- @getGooglePlusOneButton() %> -->
 
     </p>
 

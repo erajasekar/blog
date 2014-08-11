@@ -11,7 +11,7 @@ docpadConfig = {
 		# Specify some site properties
 		site:
 			# The production url of our website
-			url: "http://erajasekar.github.io/blog/"
+			url: "http://erajasekar.github.io"
 
 			# The default title of our website
 			title: "Rajasekar Elango's blog"
