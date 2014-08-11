@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Turning Knowledge into Intelligence and Creativity
-date: 2014-08-08
+date: 2014-08-11
 tags: [knowledge, intelligence, creativity]
 ---
 
@@ -19,13 +19,13 @@ Our education system is mostly designed around providing and evaluating knowledg
 
 **How knowledge is stored in memory?**
 
-The brain contains dynamic connection of neurons via [synapse](http://en.wikipedia.org/wiki/Neuron). Anyting we retain in memory create new connections or change existing connections in the brain. The things we learn generally get stored in short-term working memory. But brain has only limited space in short-term memory. Most things get discarded out of short-term memory. 
+The brain contains dynamic connection of neurons via [synapse](http://en.wikipedia.org/wiki/Neuron). Anything we retain in memory create new connections or change existing connections in the brain. The things we learn generally get stored in short-term working memory. But brain has only limited space in short-term memory. Most things get discarded out of short-term memory. 
 
 We mostly use repetition technique to make items in short-term memory stay long enough. But the biggest problem with memorization through repetition is that it frequetly puts the information on just one connection. The brain always seeks meaning, patterns with exiting information to make more connections. The more ways you have to find a piece of information, the easier it is to retrieve.
 
 **How to improve your intelligence?**
 
-Whatever you learn, associate it with a meaning, associtate it with a different contexts, associate it with simliar things - **don't learn anything in isolation**. This will make it retain in long-term memory. Then knowledge will be easily retrievable when you want to apply it. This can help with generating new ideas.
+Whatever you learn, associate it with a meaning, associate it with a different contexts, associate it with similar things - **don't learn anything in isolation**. This will make it retain in long-term memory. Then knowledge will be easily retrievable when you want to apply it. This can help with generating new ideas.
 
 **How to improve your creativity?**
 
@@ -35,7 +35,7 @@ Creativity is using imagination to connect, stretch and merge things in new ways
 
 > Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick , Awakening your inner genius ** 
 
-Curiosity will presuade you to seek interesting things, discover new information, explore related things. 
+Curiosity will persuade you to seek interesting things, discover new information, explore related things. 
 
 **Summary**
 
