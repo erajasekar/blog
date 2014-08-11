@@ -3,7 +3,6 @@ layout: post
 title: Happiness Advantage Book by Shawn Achor
 date: 2014-08-04
 tags: [book, Happiness Advantage]
-tags: [book, Happiness Advantage]
 ---
 
 

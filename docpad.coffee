@@ -7,6 +7,12 @@ url = require('url')
 # Define the DocPad Configuration
 docpadConfig = {
 
+  environments:
+    development:
+      templateData:
+        site:
+          url: 'http://localhost:9778'
+
 	templateData:
 		# Specify some site properties
 		site:
@@ -94,7 +100,7 @@ docpadConfig = {
 	plugins:
     paged:
       cleanurl:true
-      startingPageNumber:1
+      startingPageNumber:2
     tagging:
       collectionName: 'posts'
       indexPageLowercase: true
