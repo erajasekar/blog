@@ -92,24 +92,17 @@ docpadConfig = {
 			@getCollection("html").findAllLive({menu: $exists: true},[{menuOrder:1}])
 
 	plugins:
+    paged:
+      cleanurl:true
+      startingPageNumber:1
+    tagging:
+      collectionName: 'posts'
+      indexPageLowercase: true
+    cleanurls:
+      trailingSlashes: true
     ghpages:
       deployRemote: 'target'
       deployBranch: 'master'
-		tagging:
-			collectionName: 'posts'
-			indexPageLowercase: true
-
-		#dateurls:
-		#	cleanurl: true
-		#	trailingSlashes: true
-		#	keepOriginalUrls: false
-		#	collectionName: 'posts'
-		#	dateIncludesTime: true
-		paged:
-			cleanurl: true
-			startingPageNumber: 2
-		cleanurls:
-			trailingSlashes: true
 }
 
 # Export the DocPad Configuration
