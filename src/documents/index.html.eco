@@ -5,8 +5,9 @@ priority: 0.8
 referencesOthers: true
 isPaged: true
 pagedCollection: posts
-pageSize: 1
+pageSize: 3
 pagePathPrefix: page
+title: "Rajasekar Elango's Blog"
 ---
 
 <% for document in @getCollection('posts').toJSON()[@document.page.startIdx...@document.page.endIdx]: %>

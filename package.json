@@ -1,11 +1,11 @@
 {
-  "name": "ewalnet-docpad",
+  "name": "blog",
   "version": "1.0.0",
-  "description": "Source for www.ewal.net",
-  "author": "Erv Walter <erv@ewal.net>",
+  "description": "Source for http://erajasekar.github.io",
+  "author": "Rajasekar Elango <e.rajasekar@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ervwalter/ewalnet-docpad.git"
+    "url": "https://github.com/erajasekar/blog.git"
   },
   "license": "MIT",
   "dependencies": {
@@ -20,7 +20,7 @@
     "docpad-plugin-highlightjs": "^2.2.2",
     "docpad-plugin-less": "~2.2.0",
     "docpad-plugin-marked": "~2.1.1",
-    "docpad-plugin-paged": "https://github.com/ervwalter/docpad-plugin-paged/tarball/compiled",
+    "docpad-plugin-paged": "https://github.com/erajasekar/docpad-plugin-paged/tarball/compiled",
     "docpad-plugin-partials": "~2.8.0",
     "docpad-plugin-services": "^2.6.0",
     "docpad-plugin-sitemap": "~2.0.1",
