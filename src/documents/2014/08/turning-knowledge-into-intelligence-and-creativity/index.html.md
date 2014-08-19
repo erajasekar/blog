@@ -19,7 +19,7 @@ Our education system is mostly designed around providing and evaluating knowledg
 
 **How knowledge is stored in memory?**
 
-The brain contains dynamic connection of neurons via [synapse](http://en.wikipedia.org/wiki/Neuron). Anything we retain in memory create new connections or change existing connections in the brain. The things we learn generally get stored in short-term working memory. But brain has only limited space in short-term memory. Most things get discarded out of short-term memory. 
+The brain contains dynamic connection of neurons. Anything we retain in memory create new connections or change existing connections in the brain. The things we learn generally get stored in short-term working memory. But brain has only limited space in short-term memory. Most things get discarded out of short-term memory.
 
 We mostly use repetition technique to make items in short-term memory stay long enough. But the biggest problem with memorization through repetition is that it frequetly puts the information on just one connection. The brain always seeks meaning, patterns with exiting information to make more connections. The more ways you have to find a piece of information, the easier it is to retrieve.
 
