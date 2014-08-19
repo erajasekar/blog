@@ -34,7 +34,7 @@ docpadConfig = {
 					applicationId: '879531558743071'
 
 				twitterTweetButton: 'erajasekar'
-				googlePlusOneButton: false
+				googlePlusOneButton: true
 
 
 		# -----------------------------

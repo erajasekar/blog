@@ -12,13 +12,13 @@ cacheable: false
         <%- @fixLinks(@content, @url) %>
     </div>
 
-    <p><!-- TODO test -->
+    <p>
 
-      <!--  Like this post? Please share it!<br />
+       Like this post? Please share! <br/>
 
-        <%- @getFacebookLikeButton() %>
-        <%- @getTwitterTweetButton() %>
-        <%- @getGooglePlusOneButton() %> -->
+       <%- @getFacebookLikeButton() %>
+       <%- @getGooglePlusOneButton() %>
+       <%- @getTwitterTweetButton() %>
 
     </p>
 
