@@ -6,7 +6,7 @@ draft: false
 tags: [spring,java]
 ---
 
-Sometimes you would need to inject value for spring bean propery by reading values from a file. Good usecase for this would be injecting passwords into bean property by reading value from a file instead of hardcoding password into application context xml.
+Sometimes you would need to inject value for spring bean propery by reading values from a file. Good use case for this would be injecting passwords into bean property by reading value from a file rather than hard coding password into application context xml.
 
 This can be done by creating property file with values we want to inject and use spring util properties to read values into application context as properties. Then, this property value can be injected using [Spring SpEL](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/expressions.html).
 
