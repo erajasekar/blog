@@ -23,7 +23,7 @@ This is a very interesting process in which you ask yourself, What can I learn f
 
 For eg. This can be little things like when you are hit by a stone in your path, you can clear it away so that it won't hurt someone else. 
 
-Or Big things like if you are experiencing a serious health problem, you can create awareness or help others facing same disease. We have seen people doing this, most of the volunteer organizations for creating awarness/collecting funds for dreadful diseases are actually started by people who suffered by those diseases.
+Or can be big things like if you are experiencing a serious health problem, you can create awareness or help others facing same disease. We have seen people doing this, most of the volunteer organizations for creating awarness/collecting funds for dreadful diseases are actually started by people who suffered by those diseases.
 
 This way, while paying your karmic debt, you will have also converted the adversity into a benefit that may bring you possive effects.
 
