@@ -44,7 +44,7 @@ Curious people actively look for challenges that will stretch them, whether that
 
 > Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick , Awakening your inner genius ** 
 
-**Optimism: ** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
+**Optimism:** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
 
 > People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance - **Shawn Achor**, Happiness Advantage book. 
 
