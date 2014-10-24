@@ -2,7 +2,7 @@
 layout: post
 title: How can we deal with influences of past karma
 date: 2014-08-29
-draft: false
+draft: true
 tags: [karma,philosophy]
 ---
 
