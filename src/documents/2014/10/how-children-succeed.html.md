@@ -25,7 +25,7 @@ Gritty people tend to stick to their goals despite numerous setbacks and failure
 > I’d bet that there isn’t a single highly successful person who hasn’t depended on grit - says **Angela Duckworth**, the foremost researcher on the field of grit study.
 
 
-** Delayed Gratification:** [Delayed Gratification](http://en.wikipedia.org/wiki/Delayed_gratification) the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later. 
+**Delayed Gratification:** [Delayed Gratification](http://en.wikipedia.org/wiki/Delayed_gratification) the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later. 
 
 > Delaying gratification is a process of scheduling the pain and pleasure of life in such a way as to enhance the pleasure by meeting and experiencing the pain first and getting it over with - **Peck, M. Scott**, [The Road Less traveled](http://amzn.com/0743243153)
 
@@ -34,22 +34,22 @@ For eg. A student will able to wake up early in the morning regularly to study f
 Psychological researchers at Standford conducted [marshmallow experiment](http://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) to study delayed gratification and found that children who were able to wait longer for the preferred rewards tended to have better life outcomes, as measured by SAT scores, educational attainment, body mass index (BMI), and other life measures.
 
 
-** Conscientiousness: ** [Conscientiousness](http://en.wikipedia.org/wiki/Conscientiousness) is the personality trait of being thorough, careful, or vigilant. Conscientiousness implies a desire to do a task well. Conscientious people tend to be super organized, responsible, and plan ahead.  It is related to the way in which people control, regulate, and direct their impulses. Conscientious people also like to follow rules and norms and avoid risks. Psychologists classify conscientiousness is one of the [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits).
+**Conscientiousness: ** [Conscientiousness](http://en.wikipedia.org/wiki/Conscientiousness) is the personality trait of being thorough, careful, or vigilant. Conscientiousness implies a desire to do a task well. Conscientious people tend to be super organized, responsible, and plan ahead.  It is related to the way in which people control, regulate, and direct their impulses. Conscientious people also like to follow rules and norms and avoid risks. Psychologists classify conscientiousness is one of the [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits).
 
 > People high in conscientiousness get better grades in high school and college; they commit fewer crimes; and they stay married longer. - **Brent Roberts** psychologist, University of Illinois. 
 
-** Curiosity :**  Curiosity is an eagerness to explore and discover new things. It is closely linked **openness** trait of [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits), open-mindedness aids exploring a wide range of relevant information when trying to draw a conclusion, including information that challenges our own initial assumptions. 
+**Curiosity :**  Curiosity is an eagerness to explore and discover new things. It is closely linked **openness** trait of [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits), open-mindedness aids exploring a wide range of relevant information when trying to draw a conclusion, including information that challenges our own initial assumptions. 
 
 Curious people actively look for challenges that will stretch them, whether that involves making new friendships, learning new skills. They have ability to embrace new ideas and therefore they will be creative.
 
 > Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick , Awakening your inner genius ** 
 
-** Optimism: ** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
+**Optimism: ** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
 
 > People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance - **Shawn Achor**, Happiness Advantage book. 
 
 
-** What can we do to make our kids successful?**
+**What can we do to make our kids successful?**
 
 Research suggests that these characters are cultivated in child by environment in which they grew up. So as a parent, all of us as a society - can do lot to influence development of these character strengths in children. Also it's easy to develop these skills very early in child's life and it becomes harder he or she grows into adult. It doesn't mean that it's impossible to change character. Children need to adopt a growth mindset and believe character is malleable. If we teach them to pay attention to character, then their character will transform.
 
