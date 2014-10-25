@@ -42,12 +42,13 @@ Psychological researchers at Standford conducted [marshmallow experiment](http:/
 
 Curious people actively look for challenges that will stretch them, whether that involves making new friendships, learning new skills. They have ability to embrace new ideas and therefore they will be creative.
 
-> Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick , Awakening your inner genius ** 
+> Curiosity is a lens through which you view everything around you. Without it,there are no adventures to be had, With it, there are enough for a million times - **Sean Patrick** , Awakening your inner genius 
 
 **Optimism:** Optimistic child believes that his or her effort will be rewarding and will improve their future. 
 
 > People with an optimistic explanatory style interpret adversity as being local and temporary (i.e., “It’s not that bad, and it will get better.”) while those with a pessimistic explanatory style see these events as more global and permanent (i.e., “It’s really bad, and it’s never going to change.”). Their beliefs then directly affect their actions; the ones who believe the latter statement sink into helplessness and stop trying, while the ones who believe the former are spurred on to higher performance - **Shawn Achor**, Happiness Advantage book. 
 
+Countless studies have been conducted on optimism, and the vast majority of them support the same conclusions: Optimism can have profound effects on a person’s physical health. The mere act of expecting positive outcomes and being hopeful can boost a person’s immune system, protect against harmful behaviors, prevent chronic disease, and help people cope following troubling news. 
 
 **What can we do to make our kids successful?**
 
@@ -78,6 +79,7 @@ So we should allow kids to choose their ambition, choose who they want to grow i
 * [How Conscientious Are You?](http://www.yourpersonality.net/cgi-bin/conscientiousness/conscientiousness2.pl) - Survey
 * [Curiosity the secret to success](https://psychologies.co.uk/self/curiosity-the-secret-to-your-success.html) - Article
 * [The Happiness Advantage](http://amzn.com/0307591549) - Book
+* [Mindfulness and Positive Thinking](http://www.pursuit-of-happiness.org/science-of-happiness/positive-thinking/) - Article
 
 [1]: http://en.wikipedia.org/wiki/Grit_(personality_trait)
 
