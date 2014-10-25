@@ -9,7 +9,7 @@ This post is about my reflections on the book [How Children Succeed](http://amzn
 
 **What matters most in a child’s development for them to succeed in life?**
 
-We mostly think that intelligent and smart people succeed, i.e success comes to those  who score highest in school or competitive exams like SAT, GMAT etc. But in [How Children Succeed](http://amzn.com/B0070ZLZ1G), Paul Tough argues that the qualities that matter more for success are have to do with the ***character***. 
+We mostly think that intelligent and smart people succeed, i.e success comes to those  who score highest in school, college or competitive exams like SAT, GMAT etc. But in [How Children Succeed](http://amzn.com/B0070ZLZ1G), Paul Tough argues that the qualities that matter more for success are have to do with the ***character***. 
 
 
 In a child’s development, what matters most is not how much information we can stuff into his/her brain in the first few years. But, instead is whether we are able to help him/her develop a very different set of qualities like **persistence, self-control, curiosity, conscientiousness, grit, and self-confidence**. Infact, possessing these qualities helps a child to get high scores in exams consistently than intelligence alone.
@@ -18,14 +18,14 @@ In a child’s development, what matters most is not how much information we can
 
 Let's delve into some of these characters.
 
-**Grit:** [Grit][1] is disposition to pursue long term goals with passion and perserverance. Grit is a noncognitive personality trait based on someone’s ability to persevere despite the presence of many challenges and obstacles to achieve a given goal. It is basically an attitude—a personal creed that you can conquer anything if you just put your mind and body to it.
+**Grit:** Grit is disposition to pursue long term goals with passion and perserverance. Grit is a noncognitive personality trait based on someone’s ability to persevere despite the presence of many challenges and obstacles to achieve a given goal. It is basically an attitude—a personal creed that you can conquer anything if you just put your mind and body to it.
 
 Gritty people tend to stick to their goals despite numerous setbacks and failures.  They are the world-class athletes, the entrepreneur who turned a basement operation into a multi-million dollar business, the benevolent philanthropist who donates all his life’s earnings to help the poor, the inventor whose invention saved countless lives.  The grittiest people are the people that change the world.
 
 > I’d bet that there isn’t a single highly successful person who hasn’t depended on grit - says **Angela Duckworth**, the foremost researcher on the field of grit study.
 
 
-**Delayed Gratification:** [Delayed Gratification](http://en.wikipedia.org/wiki/Delayed_gratification) the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later. 
+**Delayed Gratification:** Delayed Gratification the ability to resist the temptation for an immediate reward and wait for a later reward. Generally, delayed gratification is associated with resisting a smaller but more immediate reward in order to receive a larger or more enduring reward later. 
 
 > Delaying gratification is a process of scheduling the pain and pleasure of life in such a way as to enhance the pleasure by meeting and experiencing the pain first and getting it over with - **Peck, M. Scott**, [The Road Less traveled](http://amzn.com/0743243153)
 
@@ -34,7 +34,7 @@ For eg. A student will able to wake up early in the morning regularly to study f
 Psychological researchers at Standford conducted [marshmallow experiment](http://en.wikipedia.org/wiki/Stanford_marshmallow_experiment) to study delayed gratification and found that children who were able to wait longer for the preferred rewards tended to have better life outcomes, as measured by SAT scores, educational attainment, body mass index (BMI), and other life measures.
 
 
-**Conscientiousness:** [Conscientiousness](http://en.wikipedia.org/wiki/Conscientiousness) is the personality trait of being thorough, careful, or vigilant. Conscientiousness implies a desire to do a task well. Conscientious people tend to be super organized, responsible, and plan ahead.  It is related to the way in which people control, regulate, and direct their impulses. Conscientious people also like to follow rules and norms and avoid risks. Psychologists classify conscientiousness is one of the [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits).
+**Conscientiousness:** Conscientiousness is the personality trait of being thorough, careful, or vigilant. Conscientiousness implies a desire to do a task well. Conscientious people tend to be super organized, responsible, and plan ahead.  It is related to the way in which people control, regulate, and direct their impulses. Conscientious people also like to follow rules and norms and avoid risks. Psychologists classify conscientiousness is one of the [Big five personality traits](http://en.wikipedia.org/wiki/Big_Five_personality_traits).
 
 > People high in conscientiousness get better grades in high school and college; they commit fewer crimes; and they stay married longer. - **Brent Roberts** psychologist, University of Illinois. 
 
