@@ -1,3 +1,7 @@
+This repo is no longer used, I moved my blogs to [blog-jekyll](http://github/erajasekar/blog-jekyll) - using jekyll platform. 
+
+---
+
 This is the source for the [YTechie.com developer blog](http://www.ytechie.com/). It's set up so that I can easily add/edit content, check it into GitHub, and have Azure automatically pull the source and deploy it.
 
 This is based off the website of [Erv Walter](http://www.ewal.net/).
